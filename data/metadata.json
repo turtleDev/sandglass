@@ -1,8 +1,8 @@
 {
-    "name":           "Cronomix",
-    "uuid":           "cronomix@zagortenay333",
-    "url":            "https://github.com/zagortenay333/cronomix",
-    "description":    "All-in-one timer, stopwatch, pomodoro, alarms and todos",
+    "name":           "sandglass",
+    "uuid":           "sandglass@turtleDev",
+    "url":            "https://github.com/turtledev/sandglass",
+    "description":    "An Opinionated Pomodoro Timer for GNOME Shell",
     "shell-version":  ["46", "47"],
-    "gettext-domain": "cronomix"
+    "gettext-domain": "sandglass"
 }
