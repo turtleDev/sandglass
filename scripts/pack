@@ -4,7 +4,7 @@ set -u
 cd "${BASH_SOURCE%/*}/.."
 
 proj_dir=$(pwd)
-uuid="cronomix@zagortenay333"
+uuid="sandglass@turtleDev"
 ext_dir=~/".local/share/gnome-shell/extensions/${uuid}"
 
 # ==============================================================================

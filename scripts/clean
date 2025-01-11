@@ -3,7 +3,7 @@ set -u
 
 cd "${BASH_SOURCE%/*}/.."
 
-uuid="cronomix@zagortenay333"
+uuid="sandglass@turtleDev"
 ext_dir=~/".local/share/gnome-shell/extensions/${uuid}"
 
 rm tsconfig.json
