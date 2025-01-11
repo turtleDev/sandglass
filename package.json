@@ -1,0 +1,22 @@
+{
+  "name": "sandglass",
+  "version": "0.1.0",
+  "description": "An opinionated Pomodoro timer for GNOME 3 Shell",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turtleDev/sandglass.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turtleDev/sandglass/issues"
+  },
+  "homepage": "https://github.com/turtleDev/sandglass#readme",
+  "dependencies": {
+    "typescript": "^5.7.3"
+  }
+}
